@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dream Job</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="shark.png" alt="Shark Logo" class="logo">
+    </header>
+    
+    <div class="container">
+        <h2>"What is your Dream Job?"</h2>
+        <img src="archlinux.webp" alt="Programmer Image" class="center-img">
+        <div class="content">
+            <p>
+                Ever since I was a child, I have been fascinated by computers and programming. The ability to create interactive experiences through coding excites me. I have been designing simple game programs and am currently advancing my skills in JAVA programming, which comes naturally to me. My dream is to become an exceptional programmer who innovates and brings ideas to life.
+            </p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <h2>"What is your favorite quote?"</h2>
+        <div class="content">
+            <p class="quote">"Success is the result of perfection, hard work, learning from failure, loyalty, and persistence."</p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <h2>"What is your proudest moment of 2022?"</h2>
+        <div class="content">
+            <p>
+                My proudest accomplishment of 2022 was completing my degree with a 3.95 GPA. This achievement reflects my dedication, perseverance, and teamwork skills. Balancing individual assignments with group projects was challenging, but it strengthened my ability to adapt and collaborate. The journey was tough but rewarding, preparing me for a dynamic career where I can continue to learn and contribute value.
+            </p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <h2>Who is my favorite football player?</h2>
+        <img src="chess.player.webp" alt="Favorite Player" class="center-img">
+    </div>
+    
+    <div class="container">
+        <h2>What are your top 3 favorite foods?</h2>
+        <div class="content">
+            <ul>
+                <li>Pasta</li>
+                <li>Sushi</li>
+                <li>Crisps</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
